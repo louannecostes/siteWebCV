@@ -416,7 +416,7 @@ ul{
   transform:scale(1.25);
   opacity: 1;
   background: #7510F7;
-  background-image: url(DSC05839-scaled.jpg);
+  background-image: url(siteCV/DSC05839-scaled.jpg);
   max-width: 100%;
   background-size: cover;
   /*background: -moz-linear-gradient(-45deg, #7510F7 15%, #2b94e5 100%);
@@ -434,7 +434,7 @@ ul{
   transform:scale(1.25);
   opacity: 1;
   background: #7510F7;
-  background-image: url(universite-paul-sabatier.jpg);
+  background-image: url(siteCV/universite-paul-sabatier.jpg);
   background-size: cover;
 
   /*background: -moz-linear-gradient(-45deg, #7510F7 15%, #2b94e5 100%);
@@ -452,7 +452,7 @@ ul{
   transform:scale(1.25);
   opacity: 1;
   background: #7510F7;
-  background-image: url(universite-jean-jaures.jpg);
+  background-image: url(siteCV/universite-jean-jaures.jpg);
 
   background-size: cover;
 }
@@ -466,7 +466,7 @@ ul{
   transform:scale(1.25);
   opacity: 1;
   background: #7510F7;
-  background-image: url(ingram.png);
+  background-image: url(siteCV/ingram.png);
 
   background-size: cover;
 }
@@ -480,7 +480,7 @@ ul{
   transform:scale(1.25);
   opacity: 1;
   background: #7510F7;
-  background-image: url(oncopole.jpg);
+  background-image: url(siteCV/oncopole.jpg);
 
   background-size: cover;
 }
@@ -494,7 +494,7 @@ ul{
   transform:scale(1.25);
   opacity: 1;
   background: #7510F7;
-  background-image: url(LABO31.jpg);
+  background-image: url(siteCV/LABO31.jpg);
 
   background-size: cover;
 }
